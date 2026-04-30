@@ -2,4 +2,12 @@ langchain
 langchain-core
 langchain-community
 pypdf
-pymupdfcls
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+typesense
+langchain_openai
+langgraph
